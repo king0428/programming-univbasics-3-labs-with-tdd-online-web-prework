@@ -5,5 +5,5 @@ second_number = 6
 
  sum = 3 + 6
  
- differ
+ difference = 3 - 6
  
